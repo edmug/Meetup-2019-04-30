@@ -11,6 +11,9 @@ Prior knowledge of Git or version control is not required, but will certainly he
 ### Speaker Bio:
 My name is [Mark Bennett](https://markbennett.ca/). I'm with [Burmis Studio](http://burmis.ca/), a local software development and project management firm here in Edmonton. I've been developing software since back in the Commodore 64 days of the 80s. A lot has changed since then, but I'm still passionate about software, and about sharing that excitement with others through groups like [Dev Edmonton](https://devedmonton.com/) and ]Exchange.js](https://www.exchangejs.com/).
 
+# Resources
+The slides for the talk are in [PDF](LetsGitThisPartyStarted.pdf) or [Google Doc](https://docs.google.com/presentation/d/107_7pw-dCppIuQaPz9x-rUCECFaq-VWmgl2IDBxILbo/edit?usp=sharing) format.  The Git repo used for the demos can be found [here](https://github.com/MarkBennett/lets-git-this-party-started-demo).
+
 # Sponsors
 Thanks to our yearly sponsors [Process Solutions](https://www.pscl.com/) and [JetBrains](https://www.jetbrains.com/).  Your support is much appreacted.
 
